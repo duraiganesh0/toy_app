@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* followed this book https://www.railstutorial.org/book/toy_app
